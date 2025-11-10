@@ -1,20 +1,16 @@
-const applemojis = require('./Util/applemojis.js');
+const applemojis = require("./output/applemojis.optimized.js");
 
 // get all applemojis
 const getAll = () => {
-    return applemojis;
-}
+  return applemojis;
+};
 // search by code
 const getOneByCode = (code) => {
-    console.log('getting emoji with code=>', code);
-}
+  console.log("getting emoji with code=>", code);
+};
 // search by Short Name
 const getOneByShortName = (shortName) => {
-    console.log('getting emoji with Short Name=>', shortName);
-}
+  console.log("getting emoji with Short Name=>", shortName);
+};
 
-
-
-
-
-module.exports = {getAll, getOneByCode, getOneByShortName};
+module.exports = { getAll, getOneByCode, getOneByShortName };
