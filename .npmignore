@@ -1,4 +1,4 @@
-./convert.js
-./backup
-./data
-./emojis
+convert.js
+backup/
+data/
+emojis/
