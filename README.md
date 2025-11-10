@@ -2,7 +2,7 @@
 
 An Open-Source library for Apple emojis
 
-> This project is a fork of [applemojis](https://github.com/fotiecodes/applemojis) by [fotiecodes](https://github.com/fotiecodes)
+> This project is a fork of [applemojis](https://github.com/FotieMConstant/applemojis) by [FotieMConstant](https://github.com/FotieMConstant)
 
 ## Installation
 
